@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "c1e4d25d-46af-4fc0-981b-b86ade3c7dca",
+		"name": "Catalogo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47427803",
+		"_collection_link": "https://pivotuser04-3833837.postman.co/workspace/alex's-Workspace~d6020777-6582-4aa5-8150-bd0fdce1a27d/collection/47427803-c1e4d25d-46af-4fc0-981b-b86ade3c7dca?action=share&source=collection_link&creator=47427803"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5198/api/Categorias\n",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5198",
+					"path": [
+						"api",
+						"Categorias\n"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
